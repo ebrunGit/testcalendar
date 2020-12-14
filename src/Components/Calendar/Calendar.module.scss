@@ -1,0 +1,23 @@
+.container {
+  background-color: antiquewhite;
+}
+
+.hourWrapper {
+  display: flex;
+  border-bottom: 1px solid black;
+  width: 100%;
+  text-align: left;
+  margin-right: 10px;
+}
+
+.hourDiv {
+  width: 50px;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.minutesWrapper {
+  width: 100%;
+}
+
+/* Your implementation should be responsive (i.e. respond to window resize events). */
